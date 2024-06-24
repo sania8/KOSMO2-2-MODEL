@@ -1,4 +1,4 @@
-#KOSMOS-2 Model
+**KOSMOS-2 Model**
 Overview
 The KOSMOS-2-2 model is a Transformer-based causal language model designed for multimodal understanding of image-text pairs. It was proposed in the paper "Kosmos-2: Grounding Multimodal Large Language Models to the World" by Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, and Furu Wei.
 
